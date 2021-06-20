@@ -1,2 +1,2 @@
-# deal with excel
+# Auto-create excel pivot table by using python
  
